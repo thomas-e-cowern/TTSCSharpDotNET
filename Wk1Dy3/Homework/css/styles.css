@@ -1,0 +1,62 @@
+
+body {
+  background-color: green;
+}
+
+div.restaurant1 {
+  margin: auto;
+  background-color: greenyellow;
+  border-style: groove;
+  text-align: center;
+  width: 90%;
+  height: 100px;
+}
+
+div.restaurant2 {
+  margin: auto;
+  background-color: beige;
+  border-style: groove;
+  text-align: center;
+  width: 50%;
+  height: 100px;
+}
+
+div.restaurant3 {
+  margin: auto;
+  background-color: blanchedalmond;
+  border-style: groove;
+  text-align: center;
+  width: 90%;
+  height: 100px;
+}
+
+div.restaurant4 {
+  margin: auto;
+  background-color: blueviolet;
+  border-style: groove;
+  text-align: center;
+  width: 50%;
+  height: 100px;
+}
+
+div.restaurant5 {
+  margin: auto;
+  background-color:burlywood;
+  border-style: groove;
+  text-align: center;
+  width: 90%;
+  height: 100px;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 150%;
+}
+
+.contact_form {
+  margin: auto;
+  background-color: turquoise;
+  border-style: dotted;
+  text-align: center;
+}
