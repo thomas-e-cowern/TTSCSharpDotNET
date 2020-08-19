@@ -60,3 +60,7 @@ p {
   border-style: dotted;
   text-align: center;
 }
+
+table {
+  margin: auto;
+}
