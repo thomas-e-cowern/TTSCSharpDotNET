@@ -1,13 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
-h1 {
-  color: white;
-  text-align: center;
+section {
+  min-height: 800px;
+  width: 100%;
+  background-color: red;
 }
 
-p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 20px;
+.pic1 {
+  height: 200px;
+  width: 800px;
+  background-color: green ;
 }
