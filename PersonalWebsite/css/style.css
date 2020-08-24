@@ -1,5 +1,11 @@
 .privacy {
   color:white;
+  padding: 50px;
+}
+
+.menuItem {
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .jumbotron {
@@ -10,6 +16,67 @@
 }
 
 .about {
+  background-color: white;
+  color: black;
+  size: 70%;
+}
+
+.skills {
   background-color: black;
   color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.row {
+  margin-top: 40px;
+}
+
+.thumbs {
+  height: 50px;
+}
+
+.thumbs_large {
+  height: 90px;
+}
+
+.centered {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 0%;
+}
+
+.spacer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.projects {
+  background-color: white;
+  color: black;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.project_snaps {
+  width: 300px;
+  text-align: center;
+  padding-left: 100px;
+}
+
+.contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.project_title {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
