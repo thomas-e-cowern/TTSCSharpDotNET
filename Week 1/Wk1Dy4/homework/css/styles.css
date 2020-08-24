@@ -11,3 +11,52 @@
 .phone {
   color: black
 }
+
+.masthead {
+  display: inline;
+  background-color:black;
+  color: white;
+  padding-left: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  border: none;
+}
+
+.logo {
+  display: inline-block;
+  background-color: red;
+  color:white;
+  padding: 20px;
+}
+
+.button {
+  display: inline-block;
+  background-color:black;
+  color: white;
+  text-align: center;
+  width: 100px;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  color:white;
+}
+
+.rightSide {
+  display: inline-block;
+  font-size: 20%;
+  text-align: right;
+  padding-top: 10px;
+}
+
+table {
+  height: 50%;
+}
+
+td {
+  height: 50%;
+}
+
