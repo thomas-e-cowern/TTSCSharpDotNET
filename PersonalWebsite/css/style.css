@@ -15,6 +15,13 @@
   margin: none;
 }
 
+.jumbo_pic {
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin: none;
+}
+
 .about {
   background-color: white;
   color: black;
@@ -79,4 +86,18 @@
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+navbar.center .navbar-inner {
+  text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+  display:inline-block;
+  float: none;
+}
+
+.img-main {
+  max-width: 100%;
+  height: auto;
 }
