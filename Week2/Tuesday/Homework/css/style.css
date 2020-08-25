@@ -1,0 +1,81 @@
+body {
+  background-color: aqua;
+}
+
+.dropdown-menu {
+  background-color: red;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.nav_img {
+  height: 15%;
+  width: 15%;
+  padding: 20px;
+}
+
+.nav-item {
+  padding-right: 20px;
+}
+
+.order_button {
+    height: 45px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.location_text {
+  color: white;
+  position: absolute;
+  z-index: 20;
+  left: 10%;
+  width: 80%;
+  top: 12%;
+  text-align: center;
+}
+
+.location_food_type {
+  color: white;
+  position: absolute;
+  z-index: 20;
+  left: 10%;
+  width: 80%;
+  top: 18%;
+  text-align: center;
+}
+
+.location_button_row {
+  position: absolute;
+  z-index: 20;
+  left: 10%;
+  width: 80%;
+  top: 28%;
+  text-align: center;
+}
+
+.location_button {
+  background-color: red;
+  color: white;
+  border: none;
+  margin: 10px;
+  padding: 10px;
+}
+
+.carousel-item {
+  height: 600px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.food_thumbnails {
+  height: auto;
+  width: 100%;
+}
