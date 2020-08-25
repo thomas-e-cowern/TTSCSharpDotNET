@@ -76,6 +76,10 @@ body {
 }
 
 .food_thumbnails {
-  height: auto;
   width: 100%;
+}
+
+.card-body {
+  margin: 0px;
+  padding: 0px;
 }
