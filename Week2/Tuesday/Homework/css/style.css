@@ -79,7 +79,12 @@ body {
   width: 100%;
 }
 
-.card-body {
-  margin: 0px;
-  padding: 0px;
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.col {
+  padding-right: 0;
+  padding-left: 0;
 }
