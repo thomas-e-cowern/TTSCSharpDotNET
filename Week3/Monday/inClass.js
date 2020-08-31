@@ -21,4 +21,4 @@ let arrayOfMystery = [
   function() { return "Anonymous Function!" }
 ];
 
-console.log(arrayOfMystery[2]);
+console.log(arrayOfMystery[0, 0]);
