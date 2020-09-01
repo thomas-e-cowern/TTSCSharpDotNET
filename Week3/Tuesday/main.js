@@ -1,7 +1,15 @@
 
 function greetOnLoad () {
-  var name = prompt("Hi! What's your name?");
-  greeting.innerHTML= "Hello " + name + ", it's nice to meet you!";
+  let storedName = localStorage.getItem("name");
+  if (storedName === "null") {
+    var name = prompt("Hi! What's your name?");
+    greeting.innerHTML= "Hello " + name + ", it's nice to meet you!";
+    localStorage.setItem('name', name);
+  } else {
+    greeting.innerHTML= "Hello " + storedName + ", it's nice to meet you!";
+  }
+  console.log("the stored name is " + storedName);
+  
 
   var randomNumberResult = Math.floor((Math.random() * 10) + 1);
   randomNumber.innerHTML = "Todays random number is " + randomNumberResult;
@@ -20,6 +28,9 @@ function modifyColor() {
     document.getElementById("example").style.color = "black";
     document.getElementById("example").style.backgroundColor = "white";
     state = 0;
-  }
-  
+  }  
+}
+
+function clearLocalStorage() {
+  localStorage.setItem('name', null);
 }
