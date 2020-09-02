@@ -16,26 +16,28 @@ let woolOwners = [
 ];
 
 
-let bags = haveYouAnyWool;
+
 
 let haveYouAnyWool = function() {
+    let totalBags = 0;
     for (let i = 0; i < woolOwners.length; i++) {
-    let totalBags = totalBags + i;
+      totalBags = totalBags + i;
     }
-    return (i);
+    return (totalBags);
 };
 
+let bags = haveYouAnyWool();
 
 function baabaaBlackSheep() {
     console.log("BaaBaa BlackSheep have you any wool?");
     if (bags > 0) {
-        console.log("yes sir, yes sir " + totalBags + " bags full");
+        console.log("yes sir, yes sir " + bags + " bags full");
   }
 }
 
 function oneForMy() {
     for (let i = 0; i < 2; i++) {
-        people = Object.keys(woolOwners);
+        people = Object.keys(woolOwners[i]);
         let person = people.toString();
         console.log("one for my " + person);
     }
@@ -45,7 +47,8 @@ baabaaBlackSheep();
 oneForMy();
 
 let boy = Object.keys(woolOwners[2]);
-let littleBoy = boy[2];
+let littleBoy = boy;
 
-let whereHeLives = littleBoy.location;
-console.log("one for the " + littleBoy + " that lives " + whereHeLives);
+let whereHeLives = woolOwners[2].location;
+
+console.log("one for the " + boy[0] + " that lives " + whereHeLives);
