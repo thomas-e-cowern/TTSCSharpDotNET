@@ -1,6 +1,8 @@
 $(document).ready(function() {
   console.log('JQuery is working');
 
+  $( "<p>Test</p>" ).appendTo( "p" );
+
   // defining the variables
   var name = "";
   var phone = "";
