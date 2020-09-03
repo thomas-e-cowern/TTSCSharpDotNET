@@ -14,9 +14,16 @@ $(document).ready(function(){
     // set up array for possible game options
     const hands = ["rock", "paper", "scissors"];
 
+    // default hide the results section
+    $("#results").hide();
+
+    // hide the play button now that play is on
+    $("#play").hide();
+
     // generate the computer hand
     function getComputerHand () {
-      let x = parseInt(Math.random()*10)%3;
+      let x = 0;
+      x = parseInt(Math.random()*10)%3;
       return hands[x];
     }
 
@@ -34,39 +41,31 @@ $(document).ready(function(){
         playerHand = "scissors";
       }
 
-      console.log(computerHand);
-      console.log(playerHand);
+      // hide the player hands
+      $("#playerHands").hide();
+
+      // display the hands chosen on the page
+      $("#results").show();
+      $("#playerHand").html("Player has chosen " + playerHand);
+      $("#computerHand").html("Computer has chosen " + computerHand);
+
+      // calll compare function to determine winner and display
+      let winner = compare(computerHand, playerHand);
+
+      $("#winner").html(winner);
+
+      $("#play").show().html("Click to play again...");
+
     });
 
-
-
+    function compare (choice1, choice2) {
+      if (choice1 == "rock" && choice2 == "scissors" || choice1 == "paper" && choice2 == "rock" || choice1 == "scissors" && choice2 == "paper") {
+        return ["Computer wins!"];
+      } else if (choice2 == "rock" && choice1 == "scissors" || choice2 == "paper" && choice1 == "rock" || choice2 == "scissors" && choice1 == "paper") {
+        return ["Player wins!"];
+      } else {
+        return ["It's a draw!"];
+      }
+    }
   })
 })
-
-
-
-function getPlayerHand () {
-  let hand = prompt("Enter rock, paper or scissors below", "Enter rock, paper or scissors here").toLowerCase();
-  if (hand == "rock" || hand == "paper" || hand == "scissors") {
-    let winner = compare(getComputerHand(), hand);
-    document.getElementById("results").innerHTML = winner[0];
-    document.getElementById("winner").innerHTML = "And the winner is..." + winner[1];
-    winner = "";
-  } else {
-    getPlayerHand();
-  }
-}
-
-function compare (choice1, choice2) {
-  if (choice1 == "rock" && choice2 == "scissors" || choice1 == "paper" && choice2 == "rock" || choice1 == "scissors" && choice2 == "paper") {
-    console.log("Computer: " + choice1 + ", Player: " + choice2)
-    return ["Computer: " + choice1 + ", Player: " + choice2, "Computer wins!"];
-  } else if (choice2 == "rock" && choice1 == "scissors" || choice2 == "paper" && choice1 == "rock" || choice2 == "scissors" && choice1 == "paper") {
-    console.log("Computer: " + choice1 + ", Player: " + choice2)
-    return ["Computer: " + choice1 + ", Player: " + choice2 ,"Player wins!"];
-  } else {
-    console.log("Computer: " + choice1 + ", Player: " + choice2)
-    return ["Computer: " + choice1 + ", Player: " + choice2, "It's a draw!"];
-  }
-}
-
