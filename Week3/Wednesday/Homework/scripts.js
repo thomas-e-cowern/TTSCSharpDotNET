@@ -1,9 +1,25 @@
-const hands = ["rock", "paper", "scissors"];
+$(document).ready(function(){
 
-function getComputerHand () {
-  let x = parseInt(Math.random()*10)%3;
-  return hands[x];
-}
+  console.log('JQuery is working');
+
+  $("#play").click(function(){
+
+    // set up array for possible game options
+    const hands = ["rock", "paper", "scissors"];
+
+    // generate the computer hand
+    function getComputerHand () {
+      let x = parseInt(Math.random()*10)%3;
+      console.log(hands[x]);
+      return hands[x];
+    }
+
+    getComputerHand();
+
+  })
+})
+
+
 
 function getPlayerHand () {
   let hand = prompt("Enter rock, paper or scissors below", "Enter rock, paper or scissors here").toLowerCase();
