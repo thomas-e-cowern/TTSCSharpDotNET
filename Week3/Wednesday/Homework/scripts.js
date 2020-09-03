@@ -2,6 +2,13 @@ $(document).ready(function(){
 
   console.log('JQuery is working');
 
+  // set up variable for computer and player hand
+  var computerHand = "";
+  var playerHand = "";
+
+  // default hide the player hands
+  $("#playerHands").hide();
+
   $("#play").click(function(){
 
     // set up array for possible game options
@@ -10,11 +17,28 @@ $(document).ready(function(){
     // generate the computer hand
     function getComputerHand () {
       let x = parseInt(Math.random()*10)%3;
-      console.log(hands[x]);
       return hands[x];
     }
 
-    getComputerHand();
+    computerHand = getComputerHand();
+
+    // now that we're playing, show the player hands
+    $("#playerHands").show();
+
+    $("#rock, #paper, #scissors").click(function () {
+      if (this.id == "rock") {
+        playerHand = "rock";
+      } else if (this.id == "paper") {
+        playerHand = "paper";
+      } else if (this.id == "scissors") {
+        playerHand = "scissors";
+      }
+
+      console.log(computerHand);
+      console.log(playerHand);
+    });
+
+
 
   })
 })
