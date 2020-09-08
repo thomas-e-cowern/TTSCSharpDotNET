@@ -1,0 +1,6 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/bin/Debug/pinta.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/bin/Debug/pinta.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/obj/Debug/pinta.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/obj/Debug/pinta.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/obj/Debug/pinta.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/projects/pinta/pinta/obj/Debug/pinta.pdb
