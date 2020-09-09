@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0kookkaJZcG5P5kwYxekyf3cNilVUIz8C3PWZR7WmyBz8372W5oJAv+YLk1L6hipBWmaItaY+vwrV4ILG3NcQ==",
+  "success": true,
+  "projectFilePath": "/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GithubEmojis/GithubEmojis/GithubEmojis.csproj",
+  "expectedPackageFiles": [
+    "/Users/tcowern/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.8/microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
+    "/Users/tcowern/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.8/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
+    "/Users/tcowern/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/tcowern/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/tcowern/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{546D209B-71B6-4AAB-99A7-39FA41D4DED4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GithubEmojis/IGithubEmojiService.cs">
+    <Files>
+      <File FileName="GithubEmojis/Pages/Index.cshtml.cs" Line="31" Column="2" />
+      <File FileName="GithubEmojis/Pages/Index.cshtml" Line="12" Column="15" />
+      <File FileName="GithubEmojis/Emoji.cs" Line="1" Column="1" />
+      <File FileName="GithubEmojis/GithubEmojiService.cs" Line="1" Column="1" />
+      <File FileName="GithubEmojis/IGithubEmojiService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GithubEmojis" expanded="True">
+            <Node name="GithubEmojis" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="IGithubEmojiService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GithubEmojis PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
