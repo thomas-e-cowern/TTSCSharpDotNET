@@ -1,0 +1,6 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/bin/Debug/Test.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/bin/Debug/Test.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/obj/anycpu/Debug/Test.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/obj/anycpu/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/obj/anycpu/Debug/Test.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Test/Test/obj/anycpu/Debug/Test.pdb
