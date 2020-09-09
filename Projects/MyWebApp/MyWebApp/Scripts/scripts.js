@@ -1,0 +1,1 @@
+﻿document.onload.alert("JavaScript is working");

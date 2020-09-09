@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{97D3AF6B-CC21-4F1D-BBD4-CA76F5BD974F}|">
+  <MonoDevelop.Ide.ItemProperties.MyWebApp.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebApp/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="MyWebApp/Views/Home/Index.cshtml" Line="25" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyWebApp" expanded="True">
+            <Node name="MyWebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyWebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
