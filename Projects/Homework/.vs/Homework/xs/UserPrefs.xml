@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{766B2445-44E2-4217-80FF-B41A6C4DC3B9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Homework/TriangleHomework.cs">
     <Files>
-      <File FileName="Homework/TriangleHomework.cs" Line="19" Column="22" />
-      <File FileName="Homework/EmptyClass.cs" Line="11" Column="83" />
-      <File FileName="Homework/ReverseString.cs" Line="7" Column="10" />
+      <File FileName="Homework/TriangleHomework.cs" Line="9" Column="52" />
+      <File FileName="Homework/ReverseString.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

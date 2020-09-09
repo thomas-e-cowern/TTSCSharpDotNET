@@ -1,0 +1,12 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/bin/Debug/netcoreapp3.1/MyCalc.deps.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/bin/Debug/netcoreapp3.1/MyCalc.runtimeconfig.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/bin/Debug/netcoreapp3.1/MyCalc.runtimeconfig.dev.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/bin/Debug/netcoreapp3.1/MyCalc.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/bin/Debug/netcoreapp3.1/MyCalc.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.AssemblyInfoInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.AssemblyInfo.cs
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/MyCalc/MyCalc/obj/Debug/netcoreapp3.1/MyCalc.genruntimeconfig.cache
