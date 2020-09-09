@@ -1,0 +1,12 @@
+/Users/tcowern/Projects/Homework/Homework/obj/Debug/Homework.csprojAssemblyReference.cache
+/Users/tcowern/Projects/Homework/Homework/obj/Debug/Homework.csproj.CoreCompileInputs.cache
+/Users/tcowern/Projects/Homework/Homework/bin/Debug/Homework.exe
+/Users/tcowern/Projects/Homework/Homework/bin/Debug/Homework.pdb
+/Users/tcowern/Projects/Homework/Homework/obj/Debug/Homework.exe
+/Users/tcowern/Projects/Homework/Homework/obj/Debug/Homework.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/bin/Debug/Homework.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/bin/Debug/Homework.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/obj/Debug/Homework.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/obj/Debug/Homework.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/obj/Debug/Homework.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Homework/Homework/obj/Debug/Homework.pdb

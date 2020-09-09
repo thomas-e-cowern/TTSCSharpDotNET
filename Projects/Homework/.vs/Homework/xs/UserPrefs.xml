@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{766B2445-44E2-4217-80FF-B41A6C4DC3B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework/TriangleHomework.cs">
+    <Files>
+      <File FileName="Homework/TriangleHomework.cs" Line="19" Column="22" />
+      <File FileName="Homework/EmptyClass.cs" Line="11" Column="83" />
+      <File FileName="Homework/ReverseString.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="Homework" expanded="True">
+              <Node name="TriangleHomework.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
