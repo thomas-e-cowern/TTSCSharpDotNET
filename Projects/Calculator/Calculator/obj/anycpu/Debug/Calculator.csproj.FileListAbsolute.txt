@@ -1,0 +1,6 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Calculator/Calculator/obj/anycpu/Debug/Calculator.pdb
