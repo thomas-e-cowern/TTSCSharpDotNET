@@ -1,21 +1,22 @@
 ﻿<Properties StartupConfiguration="{9BE24C15-CFAA-442F-8264-3985AD37352E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GTKProject2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GTKProject2/MainWindow.cs">
     <Files>
-      <File FileName="GTKProject2/Program.cs" Line="1" Column="1" />
+      <File FileName="GTKProject2/MainWindow.cs" Line="17" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GTKProject2" expanded="True">
             <Node name="GTKProject2" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.GTKProject2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GTKProject2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,6 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/bin/Debug/GTKProject2.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/bin/Debug/GTKProject2.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/obj/anycpu/Debug/GTKProject2.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/obj/anycpu/Debug/GTKProject2.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/obj/anycpu/Debug/GTKProject2.exe
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/GTKProject2/GTKProject2/obj/anycpu/Debug/GTKProject2.pdb
