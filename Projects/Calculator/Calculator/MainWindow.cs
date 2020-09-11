@@ -122,7 +122,6 @@ public partial class MainWindow : Gtk.Window
         int result = DoTheMath(num1, num2, func);
         label.Text = result.ToString();
         arlist.RemoveRange(0, 3);
-        changeButtonStatus();
     }
 
     public int DoTheMath(int num1, int num2, string mathFunc)
