@@ -1,4 +1,16 @@
-﻿<Properties StartupConfiguration="{9A4C3857-3F83-4429-BE09-38CA60EED575}|Default">
-  <MonoDevelop.Ide.ItemProperties.Library FirstBuild="True" />
+﻿<Properties StartupConfiguration="{2964DCF7-2830-470B-855B-20CB568F8D6A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
 </Properties>
