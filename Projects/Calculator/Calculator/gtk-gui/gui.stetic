@@ -30,11 +30,11 @@
                 <property name="Spacing">6</property>
                 <property name="BorderWidth">3</property>
                 <child>
-                  <widget class="Gtk.Label" id="label3">
+                  <widget class="Gtk.Label" id="label">
                     <property name="MemberName" />
                     <property name="Ypad">15</property>
-                    <property name="LabelProp" translatable="yes">Answer Goes Here</property>
                     <property name="UseUnderline">True</property>
+                    <property name="Justify">Center</property>
                   </widget>
                   <packing>
                     <property name="Position">0</property>
@@ -49,12 +49,14 @@
                     <property name="Homogeneous">True</property>
                     <property name="Spacing">6</property>
                     <child>
-                      <widget class="Gtk.Button" id="button50">
+                      <widget class="Gtk.Button" id="button1">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">1</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumOne_Click" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -62,12 +64,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button52">
+                      <widget class="Gtk.Button" id="button2">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">2</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumTwo_Click" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -75,12 +79,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button54">
+                      <widget class="Gtk.Button" id="button3">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">3</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumThree_Click" />
                       </widget>
                       <packing>
                         <property name="Position">2</property>
@@ -88,12 +94,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button56">
+                      <widget class="Gtk.Button" id="add">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">+</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="FuncAdd_Click" />
                       </widget>
                       <packing>
                         <property name="Position">3</property>
@@ -112,12 +120,14 @@
                     <property name="Homogeneous">True</property>
                     <property name="Spacing">6</property>
                     <child>
-                      <widget class="Gtk.Button" id="button65">
+                      <widget class="Gtk.Button" id="button4">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">4</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumFour_Click" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -125,12 +135,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button63">
+                      <widget class="Gtk.Button" id="button5">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">5</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumFive_Click" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -138,12 +150,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button60">
+                      <widget class="Gtk.Button" id="button6">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">6</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumSix_Click" />
                       </widget>
                       <packing>
                         <property name="Position">2</property>
@@ -151,12 +165,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button58">
+                      <widget class="Gtk.Button" id="sub">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">-</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="FuncSub_Click" />
                       </widget>
                       <packing>
                         <property name="Position">3</property>
@@ -175,12 +191,14 @@
                     <property name="Homogeneous">True</property>
                     <property name="Spacing">6</property>
                     <child>
-                      <widget class="Gtk.Button" id="button67">
+                      <widget class="Gtk.Button" id="button7">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">7</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumSeven_Click" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
@@ -188,12 +206,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button69">
+                      <widget class="Gtk.Button" id="button8">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">8</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumEight_Click" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -201,12 +221,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button71">
+                      <widget class="Gtk.Button" id="button9">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">9</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumNine_Click" />
                       </widget>
                       <packing>
                         <property name="Position">2</property>
@@ -214,12 +236,14 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button73">
+                      <widget class="Gtk.Button" id="div">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">/</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="FuncDiv_Click" />
                       </widget>
                       <packing>
                         <property name="Position">3</property>
@@ -242,25 +266,24 @@
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
                         <property name="Type">TextOnly</property>
-                        <property name="Label" translatable="yes">  </property>
+                        <property name="Label" translatable="yes">  clear</property>
                         <property name="UseUnderline">True</property>
-                        <property name="FocusOnClick">False</property>
-                        <property name="Relief">None</property>
+                        <signal name="Clicked" handler="Clear_Click" />
                       </widget>
                       <packing>
                         <property name="Position">0</property>
-                        <property name="AutoSize">True</property>
-                        <property name="Expand">False</property>
-                        <property name="Fill">False</property>
+                        <property name="AutoSize">False</property>
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button77">
+                      <widget class="Gtk.Button" id="button">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">0</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="NumZero_Click" />
                       </widget>
                       <packing>
                         <property name="Position">1</property>
@@ -268,29 +291,28 @@
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button79">
+                      <widget class="Gtk.Button" id="equals">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
                         <property name="Type">TextOnly</property>
-                        <property name="Label" translatable="yes">  </property>
+                        <property name="Label" translatable="yes">  =</property>
                         <property name="UseUnderline">True</property>
-                        <property name="FocusOnClick">False</property>
-                        <property name="Relief">None</property>
+                        <signal name="Clicked" handler="Equals_Click" />
                       </widget>
                       <packing>
                         <property name="Position">2</property>
-                        <property name="AutoSize">True</property>
-                        <property name="Expand">False</property>
-                        <property name="Fill">False</property>
+                        <property name="AutoSize">False</property>
                       </packing>
                     </child>
                     <child>
-                      <widget class="Gtk.Button" id="button81">
+                      <widget class="Gtk.Button" id="mul">
                         <property name="MemberName" />
                         <property name="CanFocus">True</property>
+                        <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
                         <property name="Label" translatable="yes">*</property>
                         <property name="UseUnderline">True</property>
+                        <signal name="Clicked" handler="FuncMul_Click" />
                       </widget>
                       <packing>
                         <property name="Position">3</property>
