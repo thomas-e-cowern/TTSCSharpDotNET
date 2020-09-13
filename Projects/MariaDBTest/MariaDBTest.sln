@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariaDBTest", "MariaDBTest\MariaDBTest.csproj", "{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/bin/Debug/netcoreapp3.1/LibraryData.deps.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/bin/Debug/netcoreapp3.1/LibraryData.runtimeconfig.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/bin/Debug/netcoreapp3.1/LibraryData.runtimeconfig.dev.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/bin/Debug/netcoreapp3.1/LibraryData.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/bin/Debug/netcoreapp3.1/LibraryData.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.AssemblyInfoInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.AssemblyInfo.cs
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/Library/LibraryData/obj/Debug/netcoreapp3.1/LibraryData.genruntimeconfig.cache
