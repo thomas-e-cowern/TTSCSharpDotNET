@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FC5CCDD2-FE21-4AEA-BD7D-74971117E01D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MariaDBTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MariaDBTest/MainWindow.cs">
+    <Files>
+      <File FileName="MariaDBTest/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MariaDBTest" expanded="True">
+            <Node name="MariaDBTest" expanded="True" selected="True">
+              <Node name="UserInterface" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
