@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/MainWindow.cs">
     <Files>
-      <File FileName="Calculator/MainWindow.cs" Line="124" Column="34" />
+      <File FileName="Calculator/MainWindow.cs" Line="42" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
