@@ -119,9 +119,18 @@ public partial class MainWindow : Gtk.Window
         Console.WriteLine(func);
         int num2 = (int)arlist[2];
         Console.WriteLine(num2);
-        int result = DoTheMath(num1, num2, func);
-        label.Text = result.ToString();
-        arlist.RemoveRange(0, 3);
+        if (num1 == 0 && num2 == 0)
+        {
+            label.Text = "N/A";
+            arlist.RemoveRange(0, 3);
+        }
+        else
+        {
+            int result = DoTheMath(num1, num2, func);
+            label.Text = result.ToString();
+            arlist.RemoveRange(0, 3);
+        }
+        
     }
 
     public int DoTheMath(int num1, int num2, string mathFunc)
