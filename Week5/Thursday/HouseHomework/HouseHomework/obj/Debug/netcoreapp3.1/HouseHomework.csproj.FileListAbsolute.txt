@@ -1,0 +1,12 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/bin/Debug/netcoreapp3.1/HouseHomework.deps.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/bin/Debug/netcoreapp3.1/HouseHomework.runtimeconfig.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/bin/Debug/netcoreapp3.1/HouseHomework.runtimeconfig.dev.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/bin/Debug/netcoreapp3.1/HouseHomework.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/bin/Debug/netcoreapp3.1/HouseHomework.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.AssemblyInfoInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.AssemblyInfo.cs
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Week5/Thursday/HouseHomework/HouseHomework/obj/Debug/netcoreapp3.1/HouseHomework.genruntimeconfig.cache

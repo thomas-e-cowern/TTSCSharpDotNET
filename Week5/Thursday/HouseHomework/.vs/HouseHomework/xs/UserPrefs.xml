@@ -1,11 +1,19 @@
-﻿<Properties StartupConfiguration="{F6C9E279-AF68-481E-A82A-1700C9AE4C5B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HouseHomework/Program.cs">
-    <Files>
-      <File FileName="HouseHomework/Program.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HouseHomework" expanded="True">
+            <Node name="HouseHomework" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HouseHomework FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>HouseHomework/HouseHomework.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
