@@ -50,7 +50,7 @@
                     <property name="Spacing">6</property>
                     <child>
                       <widget class="Gtk.Button" id="button1">
-                        <property name="MemberName" />
+                        <property name="MemberName">one</property>
                         <property name="CanFocus">True</property>
                         <property name="Events">ButtonPressMask</property>
                         <property name="Type">TextOnly</property>
