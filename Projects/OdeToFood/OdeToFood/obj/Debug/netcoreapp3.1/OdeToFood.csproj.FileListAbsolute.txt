@@ -114,3 +114,4 @@
 /Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/OdeToFood.genruntimeconfig.cache
 /Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Detail.cshtml.g.cs
 /Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/NotFound.cshtml.g.cs
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Edit.cshtml.g.cs

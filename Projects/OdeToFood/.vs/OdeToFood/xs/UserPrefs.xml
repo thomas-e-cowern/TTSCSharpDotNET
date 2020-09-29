@@ -1,12 +1,10 @@
 ﻿<Properties StartupConfiguration="{B072B78C-6B58-417E-8344-960546978915}|Default">
   <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Pages/Restaurants/NotFound.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Pages/Restaurants/Edit.cshtml.cs">
     <Files>
-      <File FileName="OdeToFood/Pages/Restaurants/Detail.cshtml.cs" Line="17" Column="29" />
-      <File FileName="OdeToFood/Pages/Restaurants/Detail.cshtml" Line="5" Column="1" />
-      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml" Line="25" Column="14" />
-      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="44" Column="10" />
-      <File FileName="OdeToFood/Pages/Restaurants/NotFound.cshtml" Line="7" Column="1" />
+      <File FileName="OdeToFood/Pages/Restaurants/Detail.cshtml.cs" Line="22" Column="53" />
+      <File FileName="OdeToFood/Pages/Restaurants/Edit.cshtml.cs" Line="31" Column="10" />
+      <File FileName="OdeToFood/Pages/Restaurants/Edit.cshtml" Line="22" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +14,9 @@
               <Node name="Pages" expanded="True">
                 <Node name="Restaurants" expanded="True">
                   <Node name="Detail.cshtml" expanded="True" />
-                  <Node name="NotFound.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True">
+                    <Node name="Edit.cshtml.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
