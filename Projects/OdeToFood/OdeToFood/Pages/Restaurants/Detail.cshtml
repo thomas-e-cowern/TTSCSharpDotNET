@@ -3,6 +3,9 @@
 @{ }
 
 
+@if (Model.Message != null)
+{
+<div class="alert alert-info">@Model.Message</div>}
 
 <!-- in Detail.cshtml -->
 <h2>@Model.Restaurant.Name</h2>
