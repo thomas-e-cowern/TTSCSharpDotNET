@@ -1,19 +1,19 @@
-@page
+@page "{restaurantId:int}"
 @model OdeToFood.Pages.Restaurants.DetailModel
-@{
-    Layout = null;
-}
+@{ }
 
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Detail</title>
-</head>
-<body>
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
-</body>
-</html>
+
+<!-- in Detail.cshtml -->
+<h2>@Model.Restaurant.Name</h2>
+<div>
+    Id: @Model.Restaurant.Id
+</div>
+<div>
+    Location: @Model.Restaurant.Location
+</div>
+<div>
+    Cuisine: @Model.Restaurant.Cuisine
+</div>
+
+<a asp-page="./List" class="btn btn-lg">All Restaurants</a>
