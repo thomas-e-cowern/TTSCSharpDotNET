@@ -1,0 +1,12 @@
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.AssemblyInfo.cs
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CoreCompileInputs.cache
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.deps.json
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.csproj.CopyComplete
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.dll
+/Users/tcowern/Documents/TTS_C_sharp_dot_Net/Projects/OdeToFood/OdeToFood.Data/obj/Debug/netcoreapp3.1/OdeToFood.Data.pdb
